@@ -1,6 +1,6 @@
-# Basic Express Site (2016 Edition)
+# Demo Website
 
-A simple website in node js to accompany a blog post.
+A simple website in node js.
 
 ## Setup
 
