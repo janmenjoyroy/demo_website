@@ -6,6 +6,7 @@ A simple website in node js.
 
 ```
 npm i
+npm install -g stylus
 npm run build
 npm start
 
