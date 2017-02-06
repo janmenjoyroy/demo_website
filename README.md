@@ -4,9 +4,9 @@ A simple website in node js.
 
 ## Setup
 
-```
+```sh
 npm i
-npm install -g stylus
+npm install -g stylus # if not already installed
 npm run build
 npm start
 
@@ -15,4 +15,4 @@ npm run watch
 ```
 ## Testing
 
-Hit http://http://localhost:3000/ from any browser.
+Point your browser to (http://localhost:3000/)[http://localhost:3000/]
