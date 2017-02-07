@@ -6,7 +6,7 @@ A simple website in node js.
 
 ```sh
 npm i
-npm install -g stylus # if not already installed
+npm run install-deps # Install the dependencies
 npm run build
 npm start
 
